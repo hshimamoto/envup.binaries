@@ -35,3 +35,10 @@ find -type f | sort | while read f; do
 	echo "install $(basename $f)"
 	$instcmd $f $dest/
 done
+
+# link 1bin
+cd $dest
+for bin in fwd fwdset golangbuilder gradlebuilder
+do
+	ln -sf 1bin $bin
+done

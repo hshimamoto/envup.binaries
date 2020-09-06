@@ -3,14 +3,22 @@ binary files
 
 - go-toybox
   * bashhistcompact
+  * sshfwd
+
+- go-1bin
   * fwd
   * fwdset
   * golangbuilder
   * gradlebuilder
-  * sshfwd
+
+- go-patchpanel
+  * patchlink
 
 - univproxy
   * univproxy
+
+- twinguards
+  * twinguards
 
 - others
   * sshproxy
