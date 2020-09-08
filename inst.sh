@@ -38,7 +38,7 @@ done
 
 # link 1bin
 cd $dest
-for bin in fwd fwdset golangbuilder gradlebuilder
+for bin in bashhistcompact fwd fwdset golangbuilder gradlebuilder
 do
 	ln -sf 1bin $bin
 done

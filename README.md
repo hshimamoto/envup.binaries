@@ -2,10 +2,10 @@ binary files
 ============
 
 - go-toybox
-  * bashhistcompact
   * sshfwd
 
 - go-1bin
+  * bashhistcompact
   * fwd
   * fwdset
   * golangbuilder
