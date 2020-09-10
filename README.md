@@ -1,15 +1,14 @@
 binary files
 ============
 
-- go-toybox
-  * sshfwd
-
 - go-1bin
   * bashhistcompact
   * fwd
   * fwdset
   * golangbuilder
   * gradlebuilder
+  * sshfwd
+  * sshproxy
 
 - go-patchpanel
   * patchlink
@@ -19,9 +18,6 @@ binary files
 
 - twinguards
   * twinguards
-
-- others
-  * sshproxy
 
 License
 -------
