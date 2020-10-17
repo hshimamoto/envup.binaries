@@ -3,6 +3,7 @@ binary files
 
 - go-1bin
   * bashhistcompact
+  * gorkscrew
   * fwd
   * fwdset
   * golangbuilder

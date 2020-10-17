@@ -38,7 +38,7 @@ done
 
 # link 1bin
 cd $dest
-for bin in bashhistcompact fwd fwdset golangbuilder gradlebuilder sshcompile sshfwd sshproxy
+for bin in bashhistcompact gorkscrew fwd fwdset golangbuilder gradlebuilder sshcompile sshfwd sshproxy
 do
 	ln -sf 1bin $bin
 done
