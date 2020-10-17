@@ -7,6 +7,7 @@ binary files
   * fwdset
   * golangbuilder
   * gradlebuilder
+  * sshcompile
   * sshfwd
   * sshproxy
 
