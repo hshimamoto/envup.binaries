@@ -28,4 +28,4 @@ License
 See each binary file
 
 ### Install script
-MIT License Copyright(c) 2020 Hiroshi Shimamoto
+MIT License Copyright(c) 2020-2022 Hiroshi Shimamoto
